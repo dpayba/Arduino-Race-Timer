@@ -3,8 +3,18 @@ Drag race timer designed for a 2 car race system.
 
 Written in C++
 
-Tracks reaction speed of both lanes and detect any false starts
+Functions:
+- Tracks reaction speed of both lanes
+- Detects any false starts 
+- Logs time of 1st and 2nd thirds
+- Logs final time
+- System at end turns on LED of winner
 
-Also logs time of 1st and 2nd thirds, and final time of each side
+Parts Used:
+- Arduino
+- Photoresistors
+- Male to male wires
+- Male to female wires
+- Buzzer
+- LCD Display
 
-Separate system to display LED light of winning lane
